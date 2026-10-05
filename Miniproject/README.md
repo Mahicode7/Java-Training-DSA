@@ -61,17 +61,10 @@ The system reduces manual work and makes student result management easier and mo
 
 ---
 
-# 👥 Team Members
-
-## Team Member 1
+# 👥 Team Member-(solo)
 
 **Name:** Mahendra M  
 **USN:** 1VJ25CS033
-
-## Team Member 2
-
-**Name:** Vishnu K  
-**USN:** 1VJ25CS073
 
 ---
 
@@ -86,6 +79,5 @@ This project is developed for academic and educational purposes.
 **Developed by:**
 
 **Mahendra M**  
-  Vishnu K 
 
 **Java Mini Project – Student Report Card Manager**
